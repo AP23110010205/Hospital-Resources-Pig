@@ -1,0 +1,5 @@
+department,average_occupancy,average_bed_shortage,average_staff_shortage
+Cardiology,85.6,0.0,2.0
+Emergency,96.0,0.0,4.0
+Neurology,86.0,0.0,1.8
+Orthopedics,84.5,0.0,1.4

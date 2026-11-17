@@ -1,0 +1,10 @@
+.sf/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+pig_*.log
+*.crc
+data/processed/
+lib/*.jar

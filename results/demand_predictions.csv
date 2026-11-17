@@ -1,0 +1,5 @@
+date,department,predicted_admissions
+2026-01-06,Cardiology,32.74
+2026-01-06,Emergency,50.87
+2026-01-06,Neurology,25.62
+2026-01-06,Orthopedics,31.6
